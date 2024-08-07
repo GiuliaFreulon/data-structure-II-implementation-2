@@ -3,6 +3,7 @@
 
 # Ignorar diretórios de build
 /out/
+/bin/
 
 # Ignorar arquivos de configuração do IDE (exemplo para Eclipse e IntelliJ)
 .idea/

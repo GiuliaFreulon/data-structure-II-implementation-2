@@ -22,7 +22,7 @@ public class VerificadorDePlagioAVL {
 
     // Método para inserir um documento na árvore
     public void inserir(String documento) {
-        String nomeArquivo = "src/Documentos/" + documento + ".txt"; // Nome do arquivo a ser lido
+        String nomeArquivo = "../src/Documentos/" + documento + ".txt"; // Nome do arquivo a ser lido
 
         try (BufferedReader br = new BufferedReader(new FileReader(nomeArquivo))) { // Código para ler o arquivo
             String linha;
