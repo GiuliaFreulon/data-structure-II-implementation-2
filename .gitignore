@@ -1,0 +1,10 @@
+# Ignorar arquivos de compilação
+*.class
+
+# Ignorar diretórios de build
+/out/
+
+# Ignorar arquivos de configuração do IDE (exemplo para Eclipse e IntelliJ)
+.idea/
+.vscode/
+*.iml

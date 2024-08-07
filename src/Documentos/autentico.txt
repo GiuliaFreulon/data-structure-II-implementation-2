@@ -1,0 +1,1 @@
+A Máquina de Turing é um dispositivo teórico conhecido como máquina universal, que foi concebido pelo matemático britânico Alan Turing, muitos anos antes de existirem os modernos computadores digitais.
